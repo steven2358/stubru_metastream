@@ -1,7 +1,7 @@
 Studio Brussel Metastream Ripper
 ================================
 
-This script lets you scrobble the Studio Brussel online radio automatically through Streamripper and Winamp.
+This script lets you scrobble the Studio Brussel online radio station automatically through Winamp using Streamripper.
 
 How to install
 --------------
