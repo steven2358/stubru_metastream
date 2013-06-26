@@ -12,6 +12,8 @@ while 1:
 		print "TITLE=" + data["noa"]["songs"][0]["title"] + "\nARTIST=" + data["noa"]["songs"][0]["artist"] + "\n."
 		sys.stdout.flush()
 	else:
+		# broadcast is not music
+		print "TITLE=\nARTIST=\n."
 		sys.stdout.flush()
 
-	time.sleep(10)
+	time.sleep(5)
