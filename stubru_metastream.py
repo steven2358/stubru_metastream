@@ -16,4 +16,4 @@ while 1:
 		print "TITLE=\nARTIST=\n."
 		sys.stdout.flush()
 
-	time.sleep(5)
+	time.sleep(10)
