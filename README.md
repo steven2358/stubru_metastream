@@ -14,5 +14,5 @@ How to install
 More info
 ---------
 
-http://streamripper.sourceforge.net/history.php
-http://services.vrt.be/
+http://streamripper.sourceforge.net/history.php  
+http://services.vrt.be/  
