@@ -10,9 +10,18 @@ How to install
 2. Install Python 2.x and add it to your path.  
 3. Download `stubru_metastream.py`.  
 4. In the Streamripper options dialog, in the tab Ext/Codeset, tick the External interface option and fill in `python "PATH_TO_SCRIPT"` where `PATH_TO_SCRIPT` is the local path of `stubru_metastream.py`.
+5. Play the live stream from http://mp3.streampower.be/stubru-high through Winamp.
+
+Troubleshooting
+---------------
+
+Tags not appearing? Check the following:
+1. Visit http://www.stubru.be/live and check if the song tags are appearing correctly on the live stream. The script will not work if the song tags don't appear here.
+2. Check if the song appears in http://services.vrt.be/epg/playlists/now-on-air
 
 More info
 ---------
 
 http://streamripper.sourceforge.net/history.php  
 http://services.vrt.be/  
+http://services.vrt.be/epg/playlists/now-on-air  
