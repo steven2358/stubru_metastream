@@ -26,7 +26,7 @@ File
 
 Pattern
 -------
-- Output file pattern: %S/%1q  
+- Output file pattern: `%S/%1q`  
 
 Skins
 -----
