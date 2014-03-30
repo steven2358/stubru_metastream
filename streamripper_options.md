@@ -1,6 +1,6 @@
 Recommended Streamripper Options
 ================================
-Adapted from (w-sky's Last.fm journal)[http://www.last.fm/user/w-sky/journal/2008/12/31/2d7onq_scrobble_internet_radio_using_winamp_and_audioscrobbler_plugin]
+Adapted from [w-sky's Last.fm journal](http://www.last.fm/user/w-sky/journal/2008/12/31/2d7onq_scrobble_internet_radio_using_winamp_and_audioscrobbler_plugin)
 
 Connection
 ----------
