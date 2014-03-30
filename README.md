@@ -10,7 +10,7 @@ How to install
 2. Install Python 2.x and add it to your path.  
 3. Download `stubru_metastream.py`.  
 4. In the Streamripper options dialog, in the tab Ext/Codeset, tick the External interface option and fill in `python "PATH_TO_SCRIPT"` where `PATH_TO_SCRIPT` is the local path of `stubru_metastream.py`.
-5. Play the live stream from http://mp3.streampower.be/stubru-high through Winamp.
+5. Play the live stream from http://mp3.streampower.be/stubru-high through Winamp and start streamripper. Stop winamp playback and restart it when sufficient songs are in the playlist.
 
 Troubleshooting
 ---------------
