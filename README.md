@@ -18,7 +18,7 @@ Troubleshooting
 Tags not appearing? Check the following:  
 
 1. Visit http://www.stubru.be/live and check if the song tags are appearing correctly on the live stream. The script will not work if the song tags don't appear here.  
-2. Check if the song appears in http://services.vrt.be/epg/playlists/now-on-air  
+2. Check if the song appears in http://services.vrt.be/playlist/onair?channel_code=41  
 
 If the tags don't appear in any of these two, they are simply not being broadcasted. If they do appear, it should be possible to solve through the streamripper config.
 
